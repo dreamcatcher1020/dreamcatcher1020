@@ -105,16 +105,10 @@ MongoDB, MySQL, PostgreSQL, Firebase
 </td></tr></table> 
   
 <p align="center">
-  <h2 align="left">Connect with me:</h2>
-  <p align="left">
-  <a href="https://codepen.io/khalideofficial" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="khalideofficial" height="30" width="40" /></a>
-  <a href="https://twitter.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="coderkhalid" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coderkhalid" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/14612669" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14612669" height="30" width="40" /></a>
-  <a href="https://fb.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="coderkhalid" height="30" width="40" /></a>
-  <a href="https://instagram.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coderkhalid" height="30" width="40" /></a>
-  <a href="https://dribbble.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="coderkhalid" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/khalidsaifullahKS" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="https://www.youtube.com/c/khalidsaifullahKS" height="30" width="40" /></a>
+  <h2 align="center">Connect with me:</h2>
+  <p align="center">
+  <a href="https://linkedin.com/in/vladyslav-baranov-b981b227a" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vladyslav" height="30" width="40" /></a>
+  <a href="https://gmail.com/vladyslavbaranov2@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmal.svg" alt="vladyslav" height="30" width="40" /></a>
   </p>
 </p>
 
