@@ -104,13 +104,6 @@ MongoDB, MySQL, PostgreSQL, Firebase
 
 </td></tr></table> 
   
-<p align="center">
-  <h2 align="center">Connect with me:</h2>
-  <p align="center">
-  <a href="https://linkedin.com/in/vladyslav-baranov-b981b227a" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vladyslav" height="30" width="40" /></a>
-  <a href="https://gmail.com/vladyslavbaranov2@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmal.svg" alt="vladyslav" height="30" width="40" /></a>
-  </p>
-</p>
 
 <p align="center">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
