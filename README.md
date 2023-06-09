@@ -104,6 +104,8 @@ MongoDB, MySQL, PostgreSQL, Firebase
 
 </td></tr></table> 
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
+
 <h2 align="left" id="macropower-tech">Github Status</h2>
 
 <br />
