@@ -77,6 +77,7 @@ MongoDB, MySQL, PostgreSQL, Firebase
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnet.svg" alt="DotNet" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
